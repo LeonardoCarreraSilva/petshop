@@ -1,6 +1,7 @@
 # Patshop
 
 É um projeto SPA (Single Page Application) de uma petshop/blog feito com REACT.
+
 Its a SPA (Single Page Application) project with a patShop/blog done with REACT
 
 ## How to run!
