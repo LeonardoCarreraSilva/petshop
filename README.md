@@ -15,10 +15,10 @@ Simple run the following commands in the project's base folder.
 
  ```Node
   npx json-server --watch db.json --port 5000
- ```
+
 
  or 
- ```Node
+
   npm json-server --watch db.json --port 5000
  ```
 
