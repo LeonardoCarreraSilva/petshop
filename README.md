@@ -1,13 +1,13 @@
 # Patshop
 
-É um projeto SPA (Single Page Application) de uma petshop/blog feito com REACT._
+É um projeto SPA (Single Page Application) de uma petshop/blog feito com REACT.
 
-Its a SPA (Single Page Application) project with a patShop/blog done with REACT._
+Its a SPA (Single Page Application) project with a patShop/blog done with REACT.
 
 ## How to run!
-Simples rode os seguintes comandos na pasta base do projeto._
+Simples rode os seguintes comandos na pasta base do projeto.
 
-Simple run the following commands in the project's base folder._
+Simple run the following commands in the project's base folder.
 
  ```Node
   npm update
